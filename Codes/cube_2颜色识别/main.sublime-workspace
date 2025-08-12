@@ -1,0 +1,986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"D",
+				"Dropout"
+			],
+			[
+				"tra",
+				"train_cnn_main"
+			],
+			[
+				"if",
+				"ifmain"
+			],
+			[
+				"us",
+				"use_stacking"
+			],
+			[
+				"c",
+				"cv"
+			],
+			[
+				"poti",
+				"points"
+			],
+			[
+				"so",
+				"solve"
+			],
+			[
+				"s",
+				"solver"
+			],
+			[
+				"win",
+				"window_capture"
+			],
+			[
+				"co",
+				"color_dict"
+			],
+			[
+				"mode",
+				"model_path"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"da",
+				"data_for_stacking"
+			],
+			[
+				"stac",
+				"stacking_model"
+			],
+			[
+				"train_cnn_",
+				"train_cnn_full"
+			],
+			[
+				"train_",
+				"train_cnn"
+			],
+			[
+				"hw",
+				"hwnd_"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"w",
+				"WindowCaptureError"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"Y",
+				"Y_train"
+			],
+			[
+				"X",
+				"X_train"
+			],
+			[
+				"X_t",
+				"X_train"
+			],
+			[
+				"data",
+				"data_for_stacking"
+			],
+			[
+				"x",
+				"X_train"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tst",
+				"test_Y"
+			],
+			[
+				"model",
+				"model_cnn"
+			],
+			[
+				"sta",
+				"stacking"
+			],
+			[
+				"b",
+				"baudRate"
+			],
+			[
+				"ba",
+				"baudRate"
+			],
+			[
+				"I",
+				"Input"
+			],
+			[
+				"get",
+				"getch"
+			],
+			[
+				"train",
+				"train_stacking"
+			],
+			[
+				"re",
+				"return_msg"
+			],
+			[
+				"use_",
+				"use_cnn"
+			],
+			[
+				"use",
+				"use_staacking"
+			],
+			[
+				"g",
+				"get_color"
+			],
+			[
+				"rain",
+				"train_cnn"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"se",
+				"senquence"
+			],
+			[
+				"k",
+				"kociemba"
+			],
+			[
+				"th",
+				"threading"
+			],
+			[
+				"ga",
+				"get_data_for_stacking"
+			],
+			[
+				"pre",
+				"pre_result"
+			],
+			[
+				"l",
+				"load_model"
+			],
+			[
+				"thre",
+				"threading"
+			],
+			[
+				"ca",
+				"camera_num"
+			],
+			[
+				"sa",
+				"sampling_rate"
+			],
+			[
+				"che",
+				"channel_s"
+			],
+			[
+				"ff",
+				"fft_res_2"
+			],
+			[
+				"fre",
+				"freq_2"
+			],
+			[
+				"pl",
+				"plot"
+			],
+			[
+				"wa",
+				"wave_data_norm_2"
+			],
+			[
+				"frq",
+				"freq_1"
+			],
+			[
+				"fft",
+				"fft_r"
+			],
+			[
+				"wave",
+				"wave_data_norm"
+			],
+			[
+				"f",
+				"freq_1"
+			],
+			[
+				"wav",
+				"wave_data_norm"
+			],
+			[
+				"dur",
+				"duration"
+			],
+			[
+				"dura",
+				"duration_in"
+			],
+			[
+				"sam",
+				"sampling_rate"
+			],
+			[
+				"fft_",
+				"fft_result_complex"
+			],
+			[
+				"d",
+				"duration_in"
+			],
+			[
+				"du",
+				"duration_in"
+			],
+			[
+				"ra",
+				"raw_window"
+			],
+			[
+				"wi",
+				"window_length"
+			],
+			[
+				"sap",
+				"samples_count"
+			],
+			[
+				"ch",
+				"channel_s"
+			],
+			[
+				"int",
+				"int_data"
+			],
+			[
+				"str",
+				"str_data"
+			],
+			[
+				"max",
+				"max_sec"
+			],
+			[
+				"bit",
+				"bit_constant"
+			],
+			[
+				"bi",
+				"bit_rate"
+			],
+			[
+				"res",
+				"res_raw"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"img",
+				"img1_after"
+			],
+			[
+				"mu",
+				"music"
+			],
+			[
+				"mus",
+				"music_"
+			],
+			[
+				"lo",
+				"load_data"
+			],
+			[
+				"Imag",
+				"Image"
+			],
+			[
+				"im",
+				"img_pil"
+			],
+			[
+				"Ima",
+				"ImageDraw"
+			],
+			[
+				"fon",
+				"fontpath"
+			],
+			[
+				"Image",
+				"ImageFont"
+			],
+			[
+				"loo",
+				"loop1"
+			],
+			[
+				"cha",
+				"change1"
+			],
+			[
+				"va",
+				"text_var"
+			],
+			[
+				"te",
+				"text_var"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pe",
+				"progress_dict"
+			],
+			[
+				"tim",
+				"time_"
+			],
+			[
+				"lp",
+				"loop1"
+			],
+			[
+				"image",
+				"image_paths"
+			],
+			[
+				"ima",
+				"image_paths"
+			],
+			[
+				"P_",
+				"P_o"
+			],
+			[
+				"m",
+				"multPolynomial"
+			],
+			[
+				"y_",
+				"y_res"
+			],
+			[
+				"y",
+				"y_res"
+			],
+			[
+				"n_",
+				"n_res"
+			],
+			[
+				"keep",
+				"keepdims"
+			],
+			[
+				"redu",
+				"reduce_mean"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"file",
+				"file_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.sublime-project",
+			"settings":
+			{
+				"buffer_size": 92,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					4,
+					1,
+					"",
+					null,
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACwAAAAAAAAALAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC0AAAAAAAAALQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAAC0AAAAAAAAALQAAAAAAAAADAAAA4oCdLAAAAAAAAAAsAAAAAAAAAAMAAADigJw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC4AAAAAAAAALgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					7,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAACwAAAAAAAAALgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACwAAAAAAAAALAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAABNQA"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAACoAAAAAAAAAKgAAAAAAAAABAAAAOw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACsAAAAAAAAAKwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "flies"
+					},
+					"BQAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC4AAAAAAAAALgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADQAAAAAAAAANAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADUAAAAAAAAANQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					20,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAADcAAAAAAAAAOQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADcAAAAAAAAANwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					23,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\n\t$0\n"
+					},
+					"AQAAADgAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					24,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAADsAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADsAAAAAAAAAOwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					27,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQgAAAAAAAAAAAAAAPQAAAAAAAAA9AAAAAAAAAAIAAAAJCT0AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					28,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEAAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "path"
+					},
+					"BAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEEAAAAAAAAAQQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEYAAAAAAAAARgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEcAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEcAAAAAAAAARwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "./"
+					},
+					"AgAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "main"
+					},
+					"BAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEoAAAAAAAAASgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": ".py"
+					},
+					"AwAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE4AAAAAAAAATgAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/adijnnuuy/Desktop/cube_2"
+	],
+	"file_history":
+	[
+		"/C/Users/adijnnuuy/Desktop/cube_2/main.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_multi-output-classification.zip/multi-output-classification/train.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/methods/__init__.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/cube_solve.py",
+		"/C/Users/adijnnuuy/Desktop/chong.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/gen.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/getdata.py",
+		"/C/Users/adijnnuuy/Desktop/getimg.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/method/test.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/getimg.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/cube.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/method/stacking.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/method/CNN.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/method/__init__.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/method/use_model.py",
+		"/C/Users/adijnnuuy/Desktop/main.py",
+		"/C/Users/adijnnuuy/Desktop/CNN.py",
+		"/C/Users/adijnnuuy/Desktop/readme.txt",
+		"/C/Users/adijnnuuy/Desktop/tool.py",
+		"/C/Users/adijnnuuy/Desktop/stacking.py",
+		"/C/Users/adijnnuuy/Desktop/use_model.py",
+		"/C/Users/adijnnuuy/Desktop/getdata.py",
+		"/C/Users/adijnnuuy/Desktop/cube_solve.py",
+		"/C/Users/adijnnuuy/Desktop/cube.py",
+		"/C/Users/adijnnuuy/Desktop/cube_2/CNN.py",
+		"/C/Users/adijnnuuy/Desktop/test_ID.py",
+		"/C/Users/adijnnuuy/Desktop/关于图像文件的存储与读取.txt",
+		"/C/Users/adijnnuuy/Desktop/cube_2.py",
+		"/C/Users/adijnnuuy/Desktop/关于图像文件的存储与读取：",
+		"/C/Users/adijnnuuy/Desktop/test2.py",
+		"/C/Users/adijnnuuy/Desktop/threading_camera.py",
+		"/F/Documents/Tencent Files/1419797614/FileRecv/cube_solve.py",
+		"/F/Documents/tencent files/1419797614/FileRecv/cube_solve(1).py",
+		"/F/Documents/Tencent Files/1419797614/FileRecv/cube.py",
+		"/F/Downloads/config-1.2.1.jar",
+		"/C/Users/adijnnuuy/Desktop/getdata",
+		"/C/Users/adijnnuuy/Desktop/CNN",
+		"/C/Users/adijnnuuy/Desktop/集成.py",
+		"/F/Documents/Tencent Files/1419797614/FileRecv/集成学习.py",
+		"/C/Users/adijnnuuy/Notebook/train.ipynb",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_代码文件.zip/gcxl_2/Communication.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_代码文件.zip/gcxl_2/Check.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_代码文件.zip/gcxl_2/ChangePic.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_代码文件.zip/gcxl_2/main.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_代码文件.zip/gcxl_2/Sensing.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_res.zip/res/readme.py",
+		"/F/Documents/tencent files/1419797614/FileRecv/threading_camera.py",
+		"/F/Downloads/stockPrediction-master/stockPrediction-master/main.py",
+		"/F/Documents/tencent files/1419797614/FileRecv/mobilefile/threading_camera.py",
+		"/C/Users/adijnnuuy/Desktop/fft.py",
+		"/F/Downloads/kociemba-master/kociemba-master/tests/test_solve.py",
+		"/C/Users/adijnnuuy/Desktop/Untitled.ipynb",
+		"/C/Users/adijnnuuy/Desktop/test.json",
+		"/C/Users/adijnnuuy/Desktop/tests/fft.py",
+		"/C/Users/adijnnuuy/Desktop/convert.py",
+		"/C/Users/adijnnuuy/Desktop/untitled_1.py",
+		"/C/Users/adijnnuuy/Desktop/res/readme.py",
+		"/C/Users/adijnnuuy/Desktop/cgq.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_maixhub_classifier_result_bdb0562952eb585ea5e58b8dd1bb2b0b_2021_04_12__23_54.zip/boot.py",
+		"/C/Users/adijnnuuy/Desktop/cgq.matlab",
+		"/F/Documents/WeChat Files/wxid_wn1ocg3nh9nb22/FileStorage/File/2021-05/K210板子DHT11驱动.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_342.json.zip/Coulomb342.json",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/6.1.2.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/4_2_2.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/4_1.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/4.2.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/2_2.py",
+		"/C/Users/adijnnuuy/Desktop/project/train_my.py",
+		"/C/Users/adijnnuuy/Desktop/project/K210/predict.py",
+		"/C/Users/adijnnuuy/Desktop/project/training.py",
+		"/F/Downloads/maixhub_classifier_result_661c396fbbb354259bbc57eed980737b_2021_04_12__00_59/boot.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/test.py",
+		"/C/Users/adijnnuuy/Desktop/untitled_3.py",
+		"/C/Users/adijnnuuy/Desktop/take.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/rose_pic.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/2/plot_agglomerative_dendrogram.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/pop.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/pca.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/lmd.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/gern_mean.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/data.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/clustering.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/6_pic_pre.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/6_pic.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/2.5/6.1.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_project.zip/project/train_2.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_project.zip/project/train_my.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_project.zip/project/training.py",
+		"/G/main.py",
+		"/G/boot.py",
+		"/C/Users/adijnnuuy/Desktop/tests/testpic.py",
+		"/C/Users/adijnnuuy/Desktop/tests/testt.py",
+		"/F/BaiduNetdiskDownload/01-pyBoard(STM32F405)/零一科技（01Studio）MicroPython开发套件（基于pyboard STM32F05平台）配套资料_2021-2-5/02-示例程序/1.基础实验/4.GPIO/main.py",
+		"/F/BaiduNetdiskDownload/01-pyBoard(STM32F405)/零一科技（01Studio）MicroPython开发套件（基于pyboard STM32F05平台）配套资料_2021-2-5/02-示例程序/2.传感器实验/3.人体感应传感器/main.py",
+		"/F/Documents/tencent files/1419797614/FileRecv/mobilefile/model_lite_mobilev2.py",
+		"/F/Anconda3/envs/gcxl/Lib/site-packages/keras/applications/__init__.py",
+		"/F/Downloads/kflash_gui/kflash_py/setup.py",
+		"/C/Users/adijnnuuy/Desktop/helloworld_1.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_transfer_learning_sipeed-master.zip/transfer_learning_sipeed-master/test.py",
+		"/C/Users/adijnnuuy/AppData/Local/Temp/Temp1_transfer_learning_sipeed-master.zip/transfer_learning_sipeed-master/mbnet_keras_args.py",
+		"/F/Anconda3/envs/gcxl/Lib/site-packages/keras/__init__.py",
+		"/F/Anconda3/envs/gcxl/Lib/site-packages/keras/models.py",
+		"/C/Users/adijnnuuy/Desktop/tests/test.py",
+		"/C/Users/adijnnuuy/Desktop/tests/test1.py",
+		"/C/Users/adijnnuuy/Desktop/tests/test110.py",
+		"/F/Downloads/CycleGAN-Keras-master/CycleGAN-Keras-master/model.py",
+		"/F/Downloads/CycleGAN-Keras-master/CycleGAN-Keras-master/load_data.py",
+		"/C/Users/adijnnuuy/Desktop/lbpcascade_animeface-master/examples/detect.py",
+		"/C/Users/adijnnuuy/Desktop/tests/gotosleep.py",
+		"/C/Users/adijnnuuy/Desktop/tests/ran.py",
+		"/F/gcxl/model/traffic-master/process/data_input.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/gcxl/Do/check.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/gcxl/MyWindow/MyWindowConfig.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/gcxl/Sig/getpresure.py",
+		"/F/PyCharm Community Edition 2020.2.2/PycharmProjects/pythonProject/gcxl/Sig/getinfrared.py",
+		"/F/Downloads/lbpcascade_animeface-master/lbpcascade_animeface-master/examples/detect.py",
+		"/F/Documents/Tencent Files/1419797614/FileRecv/zh/zh.m",
+		"/F/Documents/Tencent Files/1419797614/FileRecv/zh/zy.m",
+		"/C/Users/adijnnuuy/Desktop/plot_agglomerative_dendrogram.py",
+		"/C/Users/adijnnuuy/Desktop/2/plot_agglomerative_dendrogram.py",
+		"/F/Documents/tencent files/1419797614/FileRecv/mobilefile/plot_agglomerative_dendrogram.py",
+		"/F/gcxl/test2.py",
+		"/F/Anconda3/Lib/site-packages/PyQt5/uic/port_v3/ascii_upper.py",
+		"/C/Users/adijnnuuy/Desktop/test1.py",
+		"/C/Users/adijnnuuy/Desktop/testt.py",
+		"/C/Users/adijnnuuy/Desktop/test.py",
+		"/F/gcxl/model/traffic-master/model/traffic_train.py",
+		"/F/gcxl/model/move.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
